@@ -1,0 +1,14 @@
+/*
+
+!.gitignore
+
+!.husky
+
+!preview
+!starter
+
+!.editorconfig
+!.lintstagedrc
+!.prettierrc
+!README.md
+!package.json
