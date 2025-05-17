@@ -8,7 +8,7 @@
 !starter
 
 !.editorconfig
-!.lintstagedrc
-!.prettierrc
+!.lintstagedrc.json
+!.prettierrc.json
 !README.md
 !package.json
